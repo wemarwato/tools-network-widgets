@@ -9,6 +9,7 @@ Free embeddable tool widgets for your site or docs. No signup, no API key.
 ```html
 <div data-tn-widget="base64-encoder"></div>
 <script src="https://tools-network.com/widgets/tools-network-widget.js" async></script>
+```
 
 ## Available widgets
 Widget key -->	Tool
